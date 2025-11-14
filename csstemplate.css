@@ -1,0 +1,138 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: purple;
+}
+#logo{
+    background-color: pink;
+    color: white;
+    text-align: center;
+    height: 70px;
+    line-height: 70px;
+    float: left;
+    margin-top: 10px;
+}
+#menu{
+    background-color: pink;
+    color: white;
+    text-align: center;
+    height: 70px;
+    line-height: 70px;
+    float: left;
+    margin-top: 10px;
+    } 
+    #login{
+    background-color: pink;
+    color: white;
+    text-align: center;
+    height: 70px;
+    line-height: 70px;
+    float: left;
+    margin-top: 10px;
+}
+#logo{
+    width: 25%;
+}
+#menu{
+    width: 50%;
+}
+#login{
+    width: 25%;
+}
+main{
+    clear: both;
+}
+#titulo{
+    float: left;
+    width: 50%;
+    height: 190px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    line-height: 190px;
+    margin-top: 10px;
+}
+#imagem {
+    float: left;
+    width: 50%;
+    height: 190px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    line-height: 190px;
+    margin-top: 10px;
+}
+#secao1{
+    float: left;
+    width: 33.33%;
+    height: 200px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    margin-top: 10px;
+}
+#secao2{
+    float: left;
+    width: 33.33%;
+    height: 200px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    margin-top: 10px;
+}
+#secao3 {
+    float: left;
+    width: 33.33%;
+    height: 200px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    margin-top: 10px;
+}
+#rodape01{
+    float: left;
+    width: 25%;
+    height: 200px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    margin-top: 5px;
+}
+#rodape02{
+    float: left;
+    width: 25%;
+    height: 200px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    margin-top: 5px;
+}
+#rodape03{
+    float: left;
+    width: 25%;
+    height: 200px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    margin-top: 5px;
+}
+#rodape04{
+    float: left;
+    width: 25%;
+    height: 200px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    margin-top: 5px;
+}
+
