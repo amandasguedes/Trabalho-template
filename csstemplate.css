@@ -23,8 +23,8 @@ body {
     line-height: 70px;
     float: left;
     margin-top: 10px;
-    } 
-    #login{
+} 
+#login{
     background-color: pink;
     color: white;
     text-align: center;
@@ -135,4 +135,5 @@ main{
     line-height: 200px;
     margin-top: 5px;
 }
+
 
